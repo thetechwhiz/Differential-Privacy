@@ -1,2 +1,3 @@
 # Differential-Privacy
-Differential Privacy using Deep Learning
+
+Some projects on Differential Privacy
